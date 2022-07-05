@@ -1,1 +1,1 @@
-# Programacao-Pensamento-Computacional
+# Grupo de Estudos Formadores em Ação
